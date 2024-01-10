@@ -4,6 +4,7 @@
 - Configure TailwindCSS
 - Header
 - Login Form
+- Sign Up Form
 
 ## Features
 
@@ -20,4 +21,3 @@
 - NetflixGPT
   - Search Bar
   - Movie Suggestions
-
