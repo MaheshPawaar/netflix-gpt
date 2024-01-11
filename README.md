@@ -10,6 +10,8 @@
 - useRef hook
 - Firebase Configuration
 - Create SignUp User Account
+- Implement Sign In API
+- Created Redux store with userSlice
 
 ## Features
 
